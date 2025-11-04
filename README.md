@@ -22,3 +22,65 @@ A festa ganhou uma nova roupagem nos Estados Unidos e, a partir do século XIX, 
 
 **Decoração Temática:** Casas e jardins são decorados com teias de aranha falsas, morcegos, fantasmas e esqueletos, criando um ambiente **sombrio, mas festivo**.
 
+# 🧹 Halloween 👻
+
+Bem-vindo à **Página de Halloween**!  
+Este documento foi criado para demonstrar o uso do **Markdown**, inspirado no tema do **Halloween** e nas atividades dos jogos **Flexbox Froggy** e **Grid Garden**.
+
+---
+
+## 🎭 Introdução
+
+O Halloween é uma celebração tradicional, marcada por fantasias, doces, travessuras e muita diversão.  
+Neste trabalho, o tema é usado para ilustrar conceitos de **HTML, CSS, Flexbox e Grid**, aprendidos nas aulas de programação web.
+
+---
+
+## 🐸 Flexbox Froggy
+
+O **Flexbox Froggy** é um jogo educativo que ensina o uso do `display: flex` no CSS.  
+Ele mostra como alinhar e distribuir elementos em linha ou coluna de forma **flexível e responsiva**.
+
+📸 *Exemplo visual:*
+![Flexbox Froggy](./img/Captura%20de%20tela%202025-10-31%20151548.png)
+
+**Resumo:**
+> O Flexbox é usado para organizar elementos (como cards, botões ou caixas) em uma única direção, adaptando-se automaticamente ao tamanho da tela.
+
+---
+
+## 👨‍🌾 Grid Garden 🏡
+
+O **Grid Garden** é outro jogo educativo, mas voltado para o uso do `display: grid`.  
+Ele ensina como criar **layouts em forma de grade**, utilizando linhas e colunas para distribuir elementos de forma proporcional.
+
+📸 *Exemplo visual:*
+![Grid Garden](./img/Captura%20de%20tela%202025-10-31%20152149.png)
+
+**Resumo:**
+> O Grid é perfeito para montar galerias, painéis ou páginas completas, mantendo tudo organizado e equilibrado.
+
+---
+
+## 🐦‍⬛ Exemplos Práticos 🐺
+
+| Recurso | Descrição |
+|----------|------------|
+| **Flexbox** | Ideal para alinhar elementos em linha ou coluna, permitindo responsividade. |
+| **Grid** | Perfeito para criar layouts completos em duas dimensões (linhas e colunas). |
+
+---
+
+## ⚰️ Conclusão
+
+Com Flexbox e Grid, é possível criar layouts modernos, organizados e adaptáveis para qualquer tipo de site — até mesmo um assustador **site de Halloween**! 🎃
+
+---
+
+### 📜 Créditos
+
+Halloween 2025 - _015.ryan  
+Tema: **Conscientização e diversão com HTML, CSS e Markdown**
+
+---
+
